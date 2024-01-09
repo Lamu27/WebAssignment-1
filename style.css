@@ -26,6 +26,11 @@ main{
     color: white;
 
 }
+.inside-foot{
+    width:1300px;    
+    margin: 0px auto;
+
+}
 .discount h4{
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
@@ -94,6 +99,7 @@ main{
 }
 .group70{
     padding-top: 80px;
+
 }
 .hotel{
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
@@ -357,7 +363,7 @@ footer{
 
 .cont{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding-top: 20px;
 }
 .contt{
@@ -373,6 +379,8 @@ footer{
     color: #FFF;
     font-size: 20px;
     text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
 }
 .call img{
     width: 30px;
