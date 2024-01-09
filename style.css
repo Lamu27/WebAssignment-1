@@ -78,11 +78,16 @@ main{
     
 }
 .join{
-    color: #FFF;
+    background-color: #100c19;
+    color: #fff;
+    border-style: none;
     font-size: 18px;
     font-weight: 700;
-    width: 500px;
+    width: 150px;
     text-align: center;
+    margin-left: 150px;
+    justify-content: center;
+    cursor: pointer;
 }
 .mid-class img{
     align-items: end;
@@ -211,7 +216,62 @@ main{
     height: 400px;
     margin: 10px 10px 0px 0px;
 }
-
+  
+.image {
+    display: block;
+    transition: .5s;
+}
+.container:hover .image {
+    opacity: 0.8;
+}
+  
+.image2 {
+    display: block;
+    transition: .5s;
+}
+.container:hover .image2 {
+    opacity: 0.8;
+}
+.image3 {
+    display: block;
+    transition: .5s;
+}
+.container:hover .image3 {
+    opacity: 0.8;
+}
+.image4 {
+    display: block;
+    transition: .5s;
+}
+.container:hover .image4 {
+    opacity: 0.8;
+}.image5 {
+    display: block;
+    transition: .5s;
+}
+.container:hover .image5 {
+    opacity: 0.8;
+}.image6 {
+    display: block;
+    transition: .5s;
+}
+.container:hover .image6 {
+    opacity: 0.8;
+}
+.first-pics{
+    display: flex;
+    gap: 10px;
+}
+.last-pics{
+    display: flex;
+    gap: 10px;
+}
+.line hr{
+    height: 1px;
+    border: 0;
+    margin-top: 20px;
+    background: rgba(255, 255, 255, 0.15);
+}
 #mail{
     background: #fff;
     border-style: solid;
