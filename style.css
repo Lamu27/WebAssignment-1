@@ -258,6 +258,7 @@ main{
     margin-left: 0px;
     height: 72px;
     font-size: 24px;
+    color: #FFF;
     cursor: pointer;
     border-radius: 0px 50px 50px 0px;
     margin-top: 0px;
@@ -327,9 +328,6 @@ footer{
 .call{
     margin-bottom: 0px;
     display: flex;
-}
-.call p{
-    color: #FFF;
 }
 .call2{
     margin-top: 0px;
