@@ -307,6 +307,11 @@ footer{
     color: #FFF;
     font-size: 20px;
 }
+.sub{
+    color: #FFF;
+    font-size: 20px;
+    text-align: center;
+}
 .call img{
     width: 30px;
     height: 25px;
@@ -322,6 +327,9 @@ footer{
 .call{
     margin-bottom: 0px;
     display: flex;
+}
+.call p{
+    color: #FFF;
 }
 .call2{
     margin-top: 0px;
