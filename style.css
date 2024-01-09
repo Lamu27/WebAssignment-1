@@ -15,7 +15,7 @@ main{
     font-weight: bolder;
 }
 .banner{
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 80%), url('.resources/BannerImage.png');  
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 80%), url('./resources/bannerimg.png');  
     background-repeat: no-repeat;
     border-radius: 20px;
     width:1300px;
