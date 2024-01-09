@@ -1,10 +1,9 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 1600px;
 
 }
 main{
-    /* width: 1600px; */
+    width: 1600px;
 }
 
 .first-text{
@@ -289,7 +288,7 @@ footer{
     font-size: 20px;
     padding-top: 80px;
     padding-bottom: 80px;
-
+    
 
 }
 
